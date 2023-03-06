@@ -1,5 +1,8 @@
 # Movie-Recommendation Using Machine Learning
 
-## Used Content Based recommendation approach
-## made an web-application using streamlit
-## 
+
+## Source
+
+* Used Content Based recommendation approach
+* Made an web-application using streamlit
+
